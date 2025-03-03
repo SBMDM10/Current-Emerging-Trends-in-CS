@@ -2,15 +2,17 @@
 
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
-
+For this project, I was tasked with implementing an effective Q-Training algorithm that would allow a basic neural network to understand and then path its way through a maze optimally. Contained in the ProjectTwo.ipynb is some supporting code for the game space, neural network, and the #TODO section, which is where my work is contained. I specifically created the code in the #TODO block between the # Iniitialioze replay object comment down to just before the #Print the epoch comment. Everything I created dealt with the Q-Learning algorithm being integrated into the neural network and the game space. I did adjust the learning factor of the network from 0.1 to 0.2 to observe the variation in having a bit higher exploration to coincide with the exploitation.
 
 Connect your learning from throughout this course to the larger field of computer science:
 What do computer scientists do and why does it matter?
 
-
+Computer Scientists are creators and inventors. Whether or not they create or invent something unique or one-of-a-kind is not always important. Sometimes a Computer Scientist will take an old algorithm or idea and apply it in a new way, creating the latest and greatest whatever new way that thing is! I learned this even applies to artificial intelligence and machine learning, albeit they are two relatively fresh technologies, the ideas for them have been there for decades. Ideas that do not go mainstream are not always bad or unhelpful, sometimes it is just not yet the time for them to shine. Recent advances in these technologies have shown how Computer Scientists with old ideations and new implementations are changing the world around us and rapidly expanding the impact the world artificial intelligence has upon us as humans.
 
 How do I approach a problem as a computer scientist?
 
-
+I have taken the idea of putting myself in someone else's shoes to heart when I brainstorm or create in the capacity of a computer scientist. I think of solutions that are useful, accessible, easy to learn and then use, and then easy to maintain. If I find a problem while building in that aspect, I utilize reference material and other's similar experiences on open source websites to find any information I can on why I am having this error, or why my output looks like this, etc. The reference materials for any set of resources I have ever accessed may not be the easiest to understand, but if I attempt to understand those documents, I may correct a misunderstanding with how I believe a function or chunk of code to work. Referencing open source forum posts allows me to get some experience with what others are dealing with, which may glean insight into how to combat my own problems I am dealing with. These resources also allow me to see other methods utilized to accomplish goals similar to what I am attempting, which then gives me new ideas should my present ones fall short of expectations or requirements.
 
 What are my ethical responsibilities to the end user and the organization?
+
+Not only do I design and code with the above considerations in mind, but I also ensure that proper security and safety are provided where necessary. I, myself, would never want to access a piece of data and find my account stolen, personal information hijacked, or organization crippled. As I never want to suffer these awful fates that wrongdoers may press onto others, I will ensure my code is sufficient such that my end users shall not have to worry about such things. Along with that, they will never have to fear of their information being taken, as I do not want my information taken. They shall always enjoy the safety and security I am always responsible for upholding.
