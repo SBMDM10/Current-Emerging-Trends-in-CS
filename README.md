@@ -1,1 +1,2 @@
-# Current-Emerging-Trends-in-CS
+# Current-and-Emerging-Trends-in-CS
+
